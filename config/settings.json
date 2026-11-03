@@ -1,0 +1,6 @@
+{
+    "bot_token": "YOUR_TELEGRAM_BOT_TOKEN",
+    "admin_id": 123456789,
+    "report_count": 1000,
+    "threads": 50
+}
